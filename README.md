@@ -1,7 +1,15 @@
 # Student_Depression Analysis
 
+#### What is depression? 
+In simple term, depression is a common and serious mental disorder that negatively affects how you feel, think, act, and perceive the world.
+
+#### What is Suicidal thoughts? 
+
+Suicidal thoughts is having abstract thoughts about ending your life or feeling that people would be better off without you. 
+
 ## Project Overview
-This project highlights the reasons why students could have a suicidal thought or be depressed .A total number of  27,898 students which comprises 12,352 females and 15,546 males were taken into consideration, it also included a non-significant number of people in other profession who are also students.
+
+This project highlights the reasons why students could have a suicidal thought or be depressed .A total number of  27,898 students which comprises 12,352 females and 15,546 males were taken into consideration.
 
 ## Data Source and Content 
 
