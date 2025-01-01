@@ -92,4 +92,19 @@ GROUP BY Gender, Have_you_ever_had_suicidal_thoughts
 
 ![Suicidal thoughts (2)](https://github.com/user-attachments/assets/c20c1ed7-81bd-4b55-a553-cf169e4cd4e5)
 
+## Data Visualization
 
+What percentage of students have history of mental illness in their family?
+
+![Md (2)](https://github.com/user-attachments/assets/826d53bb-30fc-4e2a-95d3-36aae67a599a)
+
+This dashboard below answers questions such as:
+
+1. What percentage of students that are depressed?
+2. What is the relationship between financial stress, academic stress and having suicidal thoughts?
+3. What is the relationship between financial stress, academic stress and being depressed?
+4. What is the average CGPA?
+5. How satisfied they while studying or working?
+6. How intense is the work pressure and academic stress? etc.
+
+![Student Depression Dashboasrd_page-0001](https://github.com/user-attachments/assets/144a6888-08cf-4591-a10d-1485ff01388b)
