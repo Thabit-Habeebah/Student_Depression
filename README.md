@@ -107,4 +107,5 @@ This dashboard below answers questions such as:
 5. How satisfied they while studying or working?
 6. How intense is the work pressure and academic stress? etc.
 
-![Student Depression Dashboasrd_page-0001](https://github.com/user-attachments/assets/144a6888-08cf-4591-a10d-1485ff01388b)
+![Student Depression Dashboasrd 1_page-0001 (1)](https://github.com/user-attachments/assets/4d58d4d6-6512-48b1-8459-48afa05bcaff)
+
