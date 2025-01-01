@@ -109,3 +109,13 @@ This dashboard below answers questions such as:
 
 ![Student Depression Dashboasrd 1_page-0001 (1)](https://github.com/user-attachments/assets/4d58d4d6-6512-48b1-8459-48afa05bcaff)
 
+## Conclusion
+
+From this analysis,it has shown that factors such as finanacial stress, academcic stress, family history of mental illness causes suicidal thoughts and depression of which "financial stress" contributes the major factor. 
+
+* Key policies to ease financial stress;
+    * Increased financial aid
+    * Flexible payment sysytem
+    * Affordable housing options
+    * Mental health support, among others.
+  
