@@ -44,7 +44,7 @@ This dataset contains these columns:
 ## Data Cleaning 
 The first step was to remove duplicates in order to avoid inaccurate analysis and results,I did this on excel using the shortcut ALT+H+O+I.I loaded the data into my Power query for cleaning then I discovered that columns such as Academic Pressure, Study satisfaction, Work Pressure, Financial stress where ranked in numbers so I had to assign rank to them in words so as to aid understanding using the "conditional coulmn" to solve this problem.
 
-Also, I noticed 3 blank rows so I had to elimiate it given the fact that considering the large number of students in the data it would not have a significant effect on the on my analysis. I decide to use SQL for this because I love writing SQL queries
+Also, I noticed 3 blank rows so I had to elimiate it considering the large number of students in the data it would not have a significant effect on the on my analysis. I decide to use SQL for this because I love writing SQL queries
 
 ```
 SELECT *
@@ -106,7 +106,7 @@ What percentage of students have history of mental illness in their family?
 
 ![Md (2)](https://github.com/user-attachments/assets/826d53bb-30fc-4e2a-95d3-36aae67a599a)
 
-This dashboard below answers questions such as:
+This dashboard below answers questions the following questions;
 
 1. What percentage of students that are depressed?
 2. What is the relationship between financial stress, academic stress and having suicidal thoughts?
@@ -119,7 +119,8 @@ This dashboard below answers questions such as:
 
 ## Conclusion
 
-From this analysis,it has shown that factors such as finanacial stress, academcic stress, family history of mental illness causes suicidal thoughts and depression of which "financial stress" contributes the major factor. 
+From this analysis,it has shown that factors such as financial stress,family history of mental illness causes suicidal thoughts and depression of which "financial stress" contributes the major factor. 
+
 
 * Key policies to ease financial stress;
     * Increased financial aid
@@ -127,3 +128,8 @@ From this analysis,it has shown that factors such as finanacial stress, academci
     * Affordable housing options
     * Mental health support, among others.
   
+* Ways to reduce academic stress
+    * Time management
+    * Good hours of sleep
+    * Realistic goals
+    * Positive mindset etc. 
