@@ -9,8 +9,7 @@ Suicidal thoughts is having abstract thoughts about ending your life or feeling 
 
 ## Project Overview
 
-This project highlights the reasons why students could have a suicidal thought or be depressed .A total number of  27,898 students which comprises 12,352 females and 15,546 males were taken into consideration.
-
+This project analyse the underlying factors contributing to suicidal thoughts and depression among students. The study analyzed a comprehensive dataset of 27,898 students, comprising 12,352 females and 15,546 males, providing valuable insights into the mental health challenges faced by this demographic.
 ## Data Source and Content 
 
 The main source of this data is Kaggle [Download Here] (https://www.kaggle.com/datasets/hopesb/student-depression-dataset)
@@ -59,8 +58,7 @@ WHERE id IN ( 22377,68910,97610)
 
 ```
 
-In addition, I categorized the column " Work/Study Hours " in order to make my visualization clear and concise. I used some of these lines of code in SQL:
-
+To enhance the clarity of my visualizations, I categorized the "Work/Study Hours" column, creating distinct groups to facilitate easier interpretation. To achieve this, I employed SQL and utilized specific lines of code to efficiently categorize the data.
 ```
 ALTER TABLE [Student Depression Dataset]
 ADD Study_Hours_Range VARCHAR(50)
@@ -122,8 +120,7 @@ This dashboard below answers questions the following questions;
 
 ## Conclusion
 
-From this analysis,it has shown that factors such as financial stress,family history of mental illness causes suicidal thoughts and depression of which "financial stress" contributes the major factor. 
-
+The analysis reveals that financial stress and family history of mental illness are significant contributors to suicidal thoughts and depression. Notably, financial stress emerges as the predominant factor, highlighting its substantial impact on mental health.
 
 * Key policies to ease financial stress;
     * Increased financial aid
