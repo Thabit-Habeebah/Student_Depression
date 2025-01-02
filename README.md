@@ -42,9 +42,12 @@ This dataset contains these columns:
 * SQL for data quering
 
 ## Data Cleaning 
-The first step was to remove duplicates in order to avoid inaccurate analysis and results,I did this on excel using the shortcut ALT+H+O+I.I loaded the data into my Power query for cleaning then I discovered that columns such as Academic Pressure, Study satisfaction, Work Pressure, Financial stress where ranked in numbers so I had to assign rank to them in words so as to aid understanding using the "conditional coulmn" to solve this problem.
 
-Also, I noticed 3 blank rows so I had to elimiate it considering the large number of students in the data it would not have a significant effect on the on my analysis. I decide to use SQL for this because I love writing SQL queries
+To ensure the accuracy of my analysis, I began by removing duplicate entries from my dataset using Excel's shortcut ALT+H+O+I. Next, I imported the data into Power Query for further cleaning and processing.
+
+Upon examining the data, I noticed that certain columns, such as Academic Pressure, Study Satisfaction, Work Pressure, and Financial Stress, contained numerical rankings. To enhance interpretability, I used Power Query's "Conditional Column" feature to assign descriptive labels (e.g., "Low", "Medium", "High") to these rankings, providing a clearer understanding of the data.
+
+Upon further review of the data, I identified three blank rows that required removal. Given the substantial number of students in the dataset, I determined that eliminating these rows would have a negligible impact on my analysis. To efficiently remove the blank rows, I utilized SQL, as I prefer working with SQL queries to streamline data manipulation tasks.
 
 ```
 SELECT *
